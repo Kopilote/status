@@ -5,14 +5,30 @@
     "slug": "kopilote",
     "status": "up",
     "uptime": "99.88%",
-    "time": 699
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
+    "time": 777,
+    "timeDay": 457,
+    "timeWeek": 777,
+    "timeMonth": 777,
+    "timeYear": 777
   },
   {
     "name": "My Kopilote",
     "url": "https://my.kopilote.io",
     "slug": "my-kopilote",
-    "status": "down",
-    "uptime": "5.04%",
-    "time": 0
+    "status": "up",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
+    "time": 1416,
+    "timeDay": 1416,
+    "timeWeek": 1416,
+    "timeMonth": 1416,
+    "timeYear": 1416
   }
 ]
