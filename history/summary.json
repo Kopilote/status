@@ -5,6 +5,14 @@
     "slug": "kopilote",
     "status": "up",
     "uptime": "99.88%",
-    "time": 761
+    "time": 699
+  },
+  {
+    "name": "My Kopilote",
+    "url": "https://my.kopilote.io",
+    "slug": "my-kopilote",
+    "status": "down",
+    "uptime": "14.92%",
+    "time": 0
   }
 ]
