@@ -9,26 +9,26 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 615,
-    "timeDay": 113,
-    "timeWeek": 455,
-    "timeMonth": 615,
-    "timeYear": 615
+    "time": 582,
+    "timeDay": 190,
+    "timeWeek": 386,
+    "timeMonth": 582,
+    "timeYear": 582
   },
   {
     "name": "My Kopilote",
     "url": "https://my.kopilote.io",
     "slug": "my-kopilote",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.64%",
     "uptimeDay": "93.52%",
-    "uptimeWeek": "97.46%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.46%",
-    "time": 1311,
-    "timeDay": 1400,
-    "timeWeek": 1311,
-    "timeMonth": 1311,
-    "timeYear": 1311
+    "uptimeWeek": "97.64%",
+    "uptimeMonth": "97.64%",
+    "uptimeYear": "97.64%",
+    "time": 1462,
+    "timeDay": 1716,
+    "timeWeek": 1462,
+    "timeMonth": 1462,
+    "timeYear": 1462
   }
 ]
