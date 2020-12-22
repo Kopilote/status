@@ -10,34 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 403,
-    "timeDay": 284,
-    "timeWeek": 249,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "time": 402,
+    "timeDay": 341,
+    "timeWeek": 268,
+    "timeMonth": 402,
+    "timeYear": 402,
     "dailyMinutesDown": {
       "2020-12-04": 9
-    }
-  },
-  {
-    "name": "My Kopilote",
-    "url": "https://my.kopilote.io",
-    "icon": "https://favicons.githubusercontent.com/my.kopilote.io",
-    "slug": "my-kopilote",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.53%",
-    "time": 1720,
-    "timeDay": 2078,
-    "timeWeek": 1729,
-    "timeMonth": 1720,
-    "timeYear": 1720,
-    "dailyMinutesDown": {
-      "2020-12-07": 93,
-      "2020-12-04": 24
     }
   }
 ]
