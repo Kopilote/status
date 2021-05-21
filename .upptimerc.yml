@@ -6,8 +6,8 @@ repo: status # Your Github repository name
 sites:
   - name: Kopilote
     url: https://www.kopilote.io
-  #- name: My Kopilote
-  #  url: https://my.kopilote.io
+  - name: My Kopilote
+    url: https://my.kopilote.io
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
