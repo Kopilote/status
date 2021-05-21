@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
-    "time": 309,
-    "timeDay": 624,
-    "timeWeek": 499,
-    "timeMonth": 359,
-    "timeYear": 309,
+    "time": 308,
+    "timeDay": 390,
+    "timeWeek": 456,
+    "timeMonth": 352,
+    "timeYear": 308,
     "dailyMinutesDown": {
       "2021-04-26": 14,
       "2021-02-18": 16,
@@ -23,6 +23,27 @@
       "2021-02-04": 11,
       "2020-12-28": 88,
       "2020-12-04": 9
+    }
+  },
+  {
+    "name": "My Kopilote",
+    "url": "https://my.kopilote.io",
+    "icon": "https://favicons.githubusercontent.com/my.kopilote.io",
+    "slug": "my-kopilote",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "0.00%",
+    "time": 1762,
+    "timeDay": 2645,
+    "timeWeek": 2645,
+    "timeMonth": 2645,
+    "timeYear": 1762,
+    "dailyMinutesDown": {
+      "2020-12-07": 93,
+      "2020-12-04": 24
     }
   }
 ]
