@@ -31,9 +31,9 @@
     "url": "https://my.kopilote.io",
     "icon": "https://favicons.githubusercontent.com/my.kopilote.io",
     "slug": "my-kopilote",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -43,6 +43,7 @@
     "timeMonth": 1845,
     "timeYear": 1667,
     "dailyMinutesDown": {
+      "2021-08-24": 0,
       "2021-05-21": 10,
       "2020-12-07": 93,
       "2020-12-04": 24
